@@ -1,0 +1,3 @@
+realesrgan
+opencv-python
+torch
